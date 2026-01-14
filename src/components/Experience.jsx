@@ -5,7 +5,7 @@ const Experience = () => {
 
     {
       
-      desc: " Fresher i Worked on small projects, enhanced frontend and Create Java Prject.",
+      desc: " Fresher i Worked on small projects, enhanced frontend and Create Java Project.",
     },
   ];
 

@@ -8,11 +8,11 @@ const Projects = () => {
     },
     {
       title: "E-Commerce App",
-      desc: "Frontend online shopping platform designed using React and modern UI components.",
+      desc: "Frontend online shopping website using HTML,CSS,JavaScript.",
     },
     {
-      title: "Chat Application",
-      desc: "A real-time chat system built using Java Spring Boot and WebSocket.",
+      title: "Fullstack Project",
+      desc: "Create Full stack CRUD(Create,Read,update,delete) Project built using Java Spring Boot.",
     },
     {
       title: "ATM Machine",
@@ -21,6 +21,10 @@ const Projects = () => {
     {
       title: "CPU Scheduling Algorithms",
       desc: "Java project demonstrating FCFS, SJF, and Priority Scheduling techniques.",
+    },
+    {
+      title: "Currency Converter",
+      desc:  " A simple currency converter project that converts one currency into another with accurate and updated exchange rates using a user-friendly interface."
     },
   ];
 

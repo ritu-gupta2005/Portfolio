@@ -39,8 +39,7 @@ const Hero = () => {
         </h3>
 
         <p className="text-gray-300 mb-8 max-w-md">
-          I create stunning web experiences with modern technologies and
-          innovative design.
+        I am a passionate Java and Web Design enthusiast who loves building clean, responsive, and user-friendly applications.
         </p>
 
         <div className="flex gap-4">
