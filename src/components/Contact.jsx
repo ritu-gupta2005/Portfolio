@@ -8,12 +8,12 @@ const Contact = () => {
       <form className="max-w-lg space-y-4">
         <input
           type="text"
-          placeholder="Ritu Gupta"
+          placeholder="Enter Your Name"
           className="w-full p-3 rounded-lg bg-gray-900 text-white border border-gray-700 focus:border-purple-500"
         />
         <input
           type="email"
-          placeholder="ritu42700@gmail.com"
+          placeholder="Enter your Email"
           className="w-full p-3 rounded-lg bg-gray-900 text-white border border-gray-700 focus:border-purple-500"
         />
         <textarea
